@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a Upcoming Software Engineer with a strong passion for technology. I'm based in Mumbai who is passionate about everything related to Agentic AI and ML. <br>
+I'm a Upcoming Software Engineer with a strong passion for technology. I'm based in Mumbai who is passionate about things related to Agentic AI and ML. <br>
 
 ## About Me
 - Location: Mumbai
