@@ -25,7 +25,6 @@ I am an aspiring Software Engineer based in Mumbai, India, with a strong passion
 
 ```yaml
 name:      Vinit Girdhar
-role:      Aspiring Software Engineer
 location:  Mumbai, India
 education: BE in Information Technology, St. Francis Institute of Technology (SFIT)
 focus:     Agentic AI | Generative AI | Machine Learning | Full-Stack Development
@@ -37,11 +36,11 @@ focus:     Agentic AI | Generative AI | Machine Learning | Full-Stack Developmen
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently building full-stack and AI-powered projects
+- 🔭 Currently working in **Cybersecurity**, implementing AI to make threats more scared of me than I am of them
 - 🌱 Diving deep into **Agentic AI** and **Generative AI**
 - 👯 Open to collaborating on ambitious, real-world projects
-- ☁️ Exploring **Cloud Computing** and always happy to learn from others
-- 🍳 Fun fact: when I am not coding, I am probably cooking something delicious
+- 🛡️ Exploring the **Security** field and going deep into **Cloud Computing** and **DevOps**
+- 🍳 Fun fact: my code has bugs, my biryani does not
 
 <!-- ============================================================ -->
 <!--                         TECH STACK                           -->
@@ -78,47 +77,6 @@ focus:     Agentic AI | Generative AI | Machine Learning | Full-Stack Developmen
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
-
-</div>
-
-<!-- ============================================================ -->
-<!--                       GITHUB STATS                           -->
-<!-- ============================================================ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitgirdhar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Vinit's GitHub stats" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=vinitgirdhar&theme=tokyonight&hide_border=true" alt="Vinit's GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitgirdhar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-<!-- ============================================================ -->
-<!--                          TROPHIES                            -->
-<!-- ============================================================ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinitgirdhar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
-
-<!-- ============================================================ -->
-<!--                      CONTRIBUTION GRAPH                      -->
-<!-- ============================================================ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgirdhar&theme=tokyo-night&hide_border=true&area=true&custom_title=Vinit's%20Contribution%20Graph" alt="Contribution graph" />
 
 </div>
 
