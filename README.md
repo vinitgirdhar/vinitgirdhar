@@ -48,52 +48,32 @@ focus:     Agentic AI | Generative AI | Machine Learning | Full-Stack Developmen
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<p><b>💻 Languages</b></p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p><b>🗄️ Databases</b></p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<p><b>🎨 Front-End</b></p>
-<p>
-  <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-<p><b>⚙️ Back-End</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
-</div>
-
-<!-- ============================================================ -->
-<!--                       CONNECT WITH ME                        -->
-<!-- ============================================================ -->
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://vinitgirdhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vinit-girdhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/vinit_.091"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://github.com/vinitgirdhar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
+<table>
+  <tr>
+    <td align="left" width="140"><b>💻 Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="JavaScript, TypeScript, Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🗄️ Databases</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL, MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🎨 Front-End</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>⚙️ Back-End</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
+    </td>
+  </tr>
+</table>
 
 <!-- ============================================================ -->
 <!--                            FOOTER                            -->
