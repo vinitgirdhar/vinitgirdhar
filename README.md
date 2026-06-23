@@ -20,9 +20,6 @@
 <!-- ============================================================ -->
 
 ## 👨‍💻 About Me
-
-I am an aspiring Software Engineer based in Mumbai, India, with a strong passion for technology and a growing focus on **Agentic AI** and **Machine Learning**. I enjoy turning ideas into clean, functional products across the full stack and I am always exploring what comes next in the world of intelligent systems.
-
 ```yaml
 Name:      Vinit Girdhar
 Location:  Mumbai, India
