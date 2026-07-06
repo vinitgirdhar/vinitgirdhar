@@ -1,25 +1,25 @@
-<!-- ============================================================ -->
-<!--                        HEADER BANNER                         -->
-<!-- ============================================================ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&height=80&lines=Hi+there%2C+I'm+Vinit+Girdhar+%F0%9F%91%8B;Aspiring+Software+Engineer;Agentic+AI+%26+GenAI+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer" alt="Vinit Girdhar typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=80&lines=Hi+there%2C+I'm+Vinit+Girdhar+%F0%9F%91%8B;Full-Stack+Developer;Agentic+AI+%26+GenAI+Enthusiast;Cybersecurity+Intern;Machine+Learning+Explorer" />
 
-### 🚀 Full-Stack Developer • Agentic AI Builder • Cybersecurity Intern
 
-Building real-world web platforms, AI-powered automation, and security tooling.
+###  Full-Stack Developer • Agentic AI Builder • Cybersecurity Intern
+
+Building AI-powered products, scalable web applications, and intelligent automation.
 
 <p align="center">
   <a href="https://vinitg.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vinit-girdhar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/vinit_.091">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vinitgirdhar&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="mailto:girdharvinit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -28,20 +28,18 @@ Building real-world web platforms, AI-powered automation, and security tooling.
 
 # 👨‍💻 About Me
 
-I'm a **Full-Stack Developer and Agentic AI enthusiast** from Mumbai, currently pursuing a BE in Information Technology at St. Francis Institute of Technology (SFIT) and interning in **Cybersecurity**, where I use AI to make threats more scared of me than I am of them.
+I'm a **Full-Stack Developer and Agentic AI enthusiast** from Mumbai, currently pursuing **B.E. in Information Technology** at **St. Francis Institute of Technology (SFIT)** and interning in **Cybersecurity**, where I build AI-powered tools for threat intelligence and workflow automation.
 
 My interests span:
 
-- 🤖 Agentic AI
-- 🧠 Generative AI & LLM Applications
-- 🌐 Full-Stack Development
-- 🛡️ Cybersecurity & Threat Intelligence
-- ⚙️ Workflow Automation (n8n, MCP)
-- ☁️ Cloud Computing & DevOps
-- 📊 Machine Learning
-- 🔌 Hardware-Software Integration (ESP32, IoT)
-
-🍳 Fun fact: my code has bugs, my biryani does not.
+-  Agentic AI
+-  Generative AI & LLM Applications
+-  Full-Stack Development
+-  Cybersecurity & Threat Intelligence
+-  Workflow Automation (n8n & MCP)
+-  Cloud Computing & DevOps
+-  Machine Learning
+-  IoT & Embedded Systems
 
 ---
 
@@ -50,30 +48,50 @@ My interests span:
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Python, JavaScript, TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
 </p>
 
 ---
 
-## 🎨 Front-End
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45"/>
 </p>
 
 ---
 
-## ⚙️ Back-End
+## ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Node.js, Express.js, Flask, FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20API-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/WebSockets-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square"/>
 </p>
 
@@ -82,7 +100,13 @@ My interests span:
 ## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
 </p>
 
 ---
@@ -94,7 +118,7 @@ My interests span:
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/>
 </p>
 
 <p>
@@ -111,82 +135,22 @@ My interests span:
 <p>
   <img src="https://img.shields.io/badge/Threat_Intelligence-B22222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DFIR-2F4F4F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Darkweb_Monitoring-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Darkweb_Monitoring-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IOC_Analysis-4682B4?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 📞 VoiceQual
-
-Multilingual voice-based lead qualification system that calls, converses, and scores leads automatically.
-
-**Stack**
-
-`Twilio` • `Sarvam AI` • `OpenAI` • `MongoDB` • `n8n` • `Vercel`
-
----
-
-## 🏙️ UrbanPulse AI (NagarFlow)
-
-Smart city civic complaint system for Mumbai with live maps, Telegram bot reporting, and automated routing.
-
-**Stack**
-
-`Flask` • `Leaflet` • `Telegram Bot API` • `n8n`
-
----
-
-## 🚗 GRID
-
-Machine learning platform for ride-sharing demand forecasting across urban zones.
-
-**Stack**
-
-`Python` • `Machine Learning` • `Data Pipelines`
-
----
-
-## 💰 Ledgerly
-
-AI-powered personal finance tracker that categorizes spending and surfaces insights.
-
-**Stack**
-
-`Full-Stack Web` • `LLM Integration`
-
----
-
-## 🩺 Nirogya
-
-Public health surveillance platform for tracking and visualizing health signals.
-
-**Stack**
-
-`Python` • `Data Visualization` • `Web`
-
----
-
-## 🧗 Karawaan
-
-Non-profit trekking community platform where costs are split equally with zero organizer profit.
-
-**Stack**
-
-`HTML/CSS/JS` • `Vercel` • `iOS-inspired Design System`
-
----
-
 # 🌱 Currently Exploring
 
-- Agentic AI & Multi-Agent Systems
-- Generative AI in Cybersecurity
+- Multi-Agent AI Systems
+- Generative AI for Cybersecurity
 - Cloud Computing & DevOps
+- MCP-based Automation
 - Local LLM Inference
-- MCP-based Automation Workflows
-- IoT & Embedded Systems (ESP32)
+- Machine Learning
+- ESP32 & IoT
+- System Design
 
 ---
 
@@ -195,17 +159,12 @@ Non-profit trekking community platform where costs are split equally with zero o
 - 🌐 Portfolio: https://vinitg.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/vinit-girdhar
 - 📸 Instagram: https://instagram.com/vinit_.091
+- 📧 Email: **girdharvinit@gmail.com**
 
 ---
 
 <div align="center">
 
-### ⭐ Building real products for real people, one commit at a time.
-
-<br/>
-
-<i>Thanks for stopping by. Let's build something great together.</i>
-
-⭐️ From <a href="https://github.com/vinitgirdhar">Vinit Girdhar</a>
+### ⭐ Building intelligent software that solves real-world problems.
 
 </div>
