@@ -23,7 +23,7 @@ location:    Mumbai, India
 role:        Final-year B.Tech IT @ St. Francis Institute of Technology (2027)
 focus:       Machine Learning, Agentic AI, Full-Stack Engineering
 currently:   Building LLM-powered agents and end-to-end ML systems
-highlights:  SIH 2025 Grand Finalist | 2x Hackathon Winner | 20+ GitHub Stars
+highlights:  SIH 2025 Grand Finalist | 4x Hackathon Winner | 20+ GitHub Stars
 ```
 
 - I build end-to-end ML systems: demand forecasting, multilingual NLP, computer vision, OCR, and LLM-powered agents for civic, healthcare, and sales domains
